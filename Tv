@@ -1,1 +1,28 @@
 
+#EXTM3U
+#EXTINF:-1,PROTV
+https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
+#EXTINF:-1,ANTENA1
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2489
+#EXTINF:-1,ANTENAHD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57068
+#EXTINF:-1,HBORO
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57085
+#EXTINF:-1,DIGISPORT1
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2437
+#EXTINF:-1,DIGISPORT3
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2439
+#EXTINF:-1,DIGI SPORT 2
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57171
+#EXTINF:-1,DIGI SPORT2 HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57172
+#EXTINF:-1,ANTENA3
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2429
+#EXTINF:-1,PROTV HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57071
+#EXTINF:-1,DIGI FILM
+http://46.166.142.124:8000/samantha2/12345/10226
+#EXTINF:-1,DIGI SPORT4
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57174
+#EXTINF:-1,HBO HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57086
